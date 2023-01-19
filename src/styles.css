@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+  height: 500px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.device-wrapper {
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 500px;
+}
+.device {
+  scale: 0.5;
+  top: 0;
+}
